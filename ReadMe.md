@@ -14,4 +14,9 @@ The project depends on multiple python packages and the list is presented in the
 
     cd IntelliChess
     pip install -r requirements.txt 
+ 
+ # AutoPlay with chess servers
+ 
+ To autoplay with chess engines run the file play_chess.py. As of now an intial manual calibration to detect the squares is needed. In future versions, an automatic board detection will be added. Following is a screenshot playing with chess.com computer level 8 using stockfish engine in the loop. 
+ 
 
