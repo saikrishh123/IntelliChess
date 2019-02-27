@@ -41,7 +41,7 @@ def draw_square(squares,id,img):
         
 
 
-def plot_overlap_squares_cust(squares,img,gx,gy,gm):
+def plot_overlap_squares_cust(img,gx,gy,gm):
     
     x=gx
     y=gy

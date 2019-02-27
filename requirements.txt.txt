@@ -1,0 +1,9 @@
+opencv-python
+python-chess
+stockfish
+pandas
+numpy
+matplotlib
+pyautogui
+scipy
+
