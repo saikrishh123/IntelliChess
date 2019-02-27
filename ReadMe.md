@@ -21,12 +21,12 @@ The project depends on multiple python packages and the list is presented in the
 
 #### <u>Detecting board from screenshot:</u>
 
-<img src="../example_board.PNG">
+<img src="./data/example_board.PNG">
 
 
 #### <u>Parsed board state using opencv:</u>
 
-<img src="../example_parsed.PNG">
+<img src="./data/example_parsed.PNG">
 
 
 ## Author
